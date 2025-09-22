@@ -1,0 +1,352 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f4f4f4;
+  color: #333;
+}
+
+/* Top Bar */
+.topbar {
+  background-color: #004080;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.topbar .logo img {
+  height: 40px;
+}
+
+.topbar h1 {
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+/* Layout */
+.wrapper {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Sidebar */
+nav {
+  width: 260px;
+  background-color: #004080;
+  color: #fff;
+  overflow-y: auto;
+  padding: 20px;
+  flex-shrink: 0;
+  transition: transform 0.3s ease-in-out;
+}
+
+nav h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.menu-section {
+  margin-bottom: 0px;
+}
+
+/* Recuo para <details> internos na sidebar */
+.menu-section > details > details {
+  margin-left: 20px; /* recua os submenus para indicar hierarquia */
+}
+
+/* Links dentro dos submenus */
+.menu-section > details > details a {
+  margin-left: 25px; /* desloca os links para reforçar visualmente que são subitens */
+}
+
+.menu-section summary {
+  cursor: pointer;
+  padding: 8px;
+  background: #0059b3;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+/* Opcional: se quiser destacar o summary das subcategorias */
+.menu-section > details > details summary {
+  background: #0066cc; /* cor um pouco diferente para subcategorias */
+  padding: 6px 8px;
+  border-radius: 4px;
+  margin-bottom: 3px;
+}
+
+.menu-section a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 12px;
+  margin-left: 10px;
+  transition: background 0.2s;
+  font-size: 0.95rem;
+}
+
+.menu-section a:hover {
+  background-color: #0066cc;
+}
+
+/* Main Content */
+main {
+  flex: 1;
+  padding: 30px;
+  overflow-y: auto;
+}
+
+main h1 {
+  margin-bottom: 15px;
+}
+
+main p {
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.anuncio {
+  margin-top: 30px;
+  background: #ddd;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 6px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  nav {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    transform: translateX(-100%);
+    z-index: 10;
+  }
+
+  nav.open {
+    transform: translateX(0);
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  .topbar h1 {
+    font-size: 1.2rem;
+  }
+
+  .anuncio {
+    height: 80px;
+    line-height: 80px;
+  }
+}
+
+
+
+
+
+/* home*/
+
+/* Notícias */
+.noticias-recentes {
+  margin-bottom: 40px;
+}
+
+.noticias-recentes h2 {
+  margin-bottom: 20px;
+}
+
+.noticias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.noticia {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.noticia img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.noticia div {
+  padding: 15px;
+}
+
+.noticia h3 {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+  color: #004080;
+}
+
+.noticia .subtitulo {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.noticia .resumo {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+/* Guia Rápido */
+.guia-rapido {
+  margin: 40px 0;
+}
+
+.guia-rapido ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.guia-rapido li a {
+  background: #004080;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.guia-rapido li a:hover {
+  background: #0066cc;
+}
+
+/* Categorias Populares */
+.categorias-populares {
+  margin: 40px 0;
+}
+
+.categorias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 12px;
+}
+
+.cat-box {
+  background: #0059b3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 6px;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.cat-box:hover {
+  background: #0074d9;
+}
+
+/* Links Úteis */
+.links-uteis {
+  margin: 40px 0;
+}
+
+.links-uteis ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.links-uteis li {
+  margin-bottom: 10px;
+}
+
+.links-uteis a {
+  color: #004080;
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  margin-top: 60px;
+  padding: 30px 20px;
+  background: #004080;
+  color: white;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.subpaginas-lista {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 20px;
+}
+
+.subpaginas-lista li {
+  margin-bottom: 12px;
+}
+
+.subpaginas-lista a {
+  font-size: 1.1rem;
+  color: #004080;
+  text-decoration: none;
+  border-left: 4px solid #004080;
+  padding-left: 12px;
+  transition: 0.2s;
+}
+
+.subpaginas-lista a:hover {
+  background: #f0f4f8;
+  padding-left: 16px;
+}
