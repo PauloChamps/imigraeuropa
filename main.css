@@ -25,7 +25,8 @@ body {
 }
 
 .topbar .logo img {
-  height: 120px;
+  height: 80px;
+  margin-left: 35px;
 }
 
 .topbar h1 {
