@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: Arial, sans-serif;
   display: flex;
@@ -11,9 +10,9 @@ body {
   height: 100vh;
   background: #f4f4f4;
   color: #333;
-}
+} 
+/* ####################################### Top Bar  ############################################ */
 
-/* Top Bar */
 .topbar {
   background-color: #004080;
   color: white;
@@ -23,16 +22,59 @@ body {
   padding: 10px 20px;
   position: relative;
 }
-
-.topbar .logo img {
-  height: 80px;
-  margin-left: 35px;
+.topbar .logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left: 20px;
 }
-
+.topbar .logo img {
+  height: 100px; 
+  width: auto;
+  margin: 0;
+}
 .topbar h1 {
   font-size: 1.4rem;
   font-weight: normal;
 }
+.topbar h1.paises span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin: 0 4px;
+}
+.topbar h1.paises a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+}
+.topbar h1.paises img {
+  width: 40px;
+  height: 34px;
+  object-fit: contain;
+  display: inline-block;
+} 
+@media (max-width: 768px) {
+  .topbar h1.paises {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 2px 2px; 
+    justify-content: center;
+    align-items: center;
+  }
+  .topbar h1.paises span {
+    font-size: 0; 
+  }
+  .topbar h1.paises span img {
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+  }
+}
+/* ################################################################################### */
+
+
 
 .menu-toggle {
   display: none;
@@ -162,10 +204,20 @@ main p {
   main {
     padding: 20px;
   }
+  .topbar .logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
 
-  .topbar h1 {
-    font-size: 1.2rem;
-  }
+.topbar .logo img {
+  height: 60px; 
+  width: auto;
+  margin: 0;
+  margin-left: -20px;
+}
+
+  
 
   .anuncio {
     height: 80px;
@@ -174,6 +226,9 @@ main p {
 }
 
 
+
+
+/* ################################################################################### */
 
 
 
