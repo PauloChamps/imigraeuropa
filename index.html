@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="main.css" />
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434635049222289"
      crossorigin="anonymous"></script>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body> 
 <!-- Top Bar -->
@@ -22,9 +23,6 @@
       </h1> 
     <button class="menu-toggle" id="menu-toggle">&#9776;</button>
   </div>
- 
-
-
 
   <!-- Main layout -->
   <div class="wrapper">
@@ -394,7 +392,7 @@
 
       <p>Aqui você encontrará informações sobre vistos, trabalho, saúde, moradia, estudos e muito mais. Use o menu à esquerda para navegar pelas categorias.</p>
 
-      <div class="anuncio">[Espaço para Anúncio]</div>
+       <!--<div class="anuncio">[Espaço para Anúncio]</div>-->
 
 <main>
 
@@ -406,9 +404,8 @@
       <article class="noticia">
   <!-- Link na imagem -->
   <a href="news/news-novas-regras-para-visto-de-trabalho.html">
-    <img src="imagens/news/news01.jpg" alt="Notícia 1">
+    <img src="imagens/news/news01.jpg" alt="Novas Regras para Visto de Trabalho">
   </a>
-
   <div>
     <h3>Novas regras para Visto de Procura de Trabalho</h3>
     <p class="subtitulo">Documentação • 17/09/2025</p>
@@ -420,22 +417,31 @@
   </div>
 </article>
 
-
       <article class="noticia">
-        <img src="imagens/arrendamento.jpg" alt="Notícia 2">
-        <div>
+       <a href="news/news-como-evitar-fraudes-no-arrendamento.html">
+    <img src="imagens/news/news05.jpg" alt="Como Evitar Fraudes no Arrendamento">
+    </a>
+      <div>
           <h3>Como evitar fraudes no arrendamento</h3>
           <p class="subtitulo">Moradia • 16/09/2025</p>
           <p class="resumo">A alta demanda por imóveis tem aumentado os golpes. Confira dicas para não cair em armadilhas ao alugar.</p>
+        <!-- Link de texto ao final -->
+      <a href="news/news-como-evitar-fraudes-no-arrendamento.html">Clique aqui...</a>
         </div>
       </article>
 
+      
+
       <article class="noticia">
-        <img src="imagens/seguranca-social.jpg" alt="Notícia 3">
+        <a href="news/news-segurança-social-entenda-seus-direitos.html">
+    <img src="imagens/news/news06.jpg" alt="Como Evitar Fraudes no Arrendamento">
+    </a>
         <div>
           <h3>Segurança Social: entenda seus direitos</h3>
           <p class="subtitulo">NISS • 15/09/2025</p>
           <p class="resumo">O NISS garante acesso a benefícios importantes. Veja como se cadastrar e quais os seus direitos.</p>
+        <!-- Link de texto ao final -->
+      <a href="news/news-segurança-social-entenda-seus-direitos.html">Clique aqui...</a>
         </div>
       </article>
 
@@ -446,11 +452,11 @@
   <section class="guia-rapido">
     <h2>📌 Guia Rápido</h2></br>
     <ul>
-      <li><a href="nif.html">Como tirar o NIF</a></li></br></br>
-      <li><a href="vistos.html">Tipos de Visto para Portugal</a></li></br></br>
-      <li><a href="empregos.html">Sites de Emprego</a></li></br></br>
-      <li><a href="arrendamento.html">Alugar casa em Portugal</a></li></br></br>
-      <li><a href="salarios.html">Salários por profissão</a></li>
+      <li><a href="documentacoes/nif/nif-como-solicitar.html">Como tirar o NIF</a></li></br></br>
+      <li><a href="documentacoes/vistos/visto-de-estudo.html">Visto de Estudante</a></li></br></br>
+      <li><a href="trabalho/trabalho-oportunidades-na-europa.html">Sites de Emprego</a></li></br></br>
+      <li><a href="moradia/moradia-arrendamento.html">Alugar casa em Portugal</a></li></br></br>
+      <li><a href="trabalho/trabalho-salario-minimo.html">Salários</a></li>
     </ul>
   </section>
 
@@ -478,27 +484,41 @@
     </ul>
   </section>
 
-  <!-- Rodapé -->
-  <footer>
-    <div class="footer-content">
-      <p>&copy; 2025 ImigraEuropa. Todos os direitos reservados.</p>
-      <p>
-        <a href="contato.html">Contato</a> |
-        <a href="sobre.html">Sobre</a> |
-        <a href="politica-de-privacidade.html">Política de Privacidade</a>
-      </p>
-      
-    </div> 
-    
-  </footer>
+<!-- RODAPÉ -->
+<footer class="footer">
+  <div class="container-footer">
 
-</main>
+    <!-- Coluna Esquerda: Links -->
+    <div class="footer-col footer-left">
+      <a href="contato.html">Contato</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="politica-de-privacidade.html">Privacidade</a>
+    </div>
 
+    <!-- Coluna Central: Logo + copyright -->
+    <div class="footer-col footer-center" > 
+      <p class="copyright">© 2025 ImigraEuropa</br>Todos os direitos reservados</p>
+    </div>
 
-    </main>
+    <!-- Coluna Direita: Redes sociais -->
+    <div class="footer-col footer-right">
+      <a href="https://youtube.com" target="_blank" aria-label="YouTube">
+        <i class="fab fa-youtube"></i>
+      </a>
+      <a href="https://instagram.com" target="_blank" aria-label="Instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://facebook.com" target="_blank" aria-label="Facebook">
+        <i class="fab fa-facebook"></i>
+      </a>
+    </div>
 
   </div>
+</footer>
 
-  <script src="script.js"></script>
-</body>
+    </main>
+  </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
