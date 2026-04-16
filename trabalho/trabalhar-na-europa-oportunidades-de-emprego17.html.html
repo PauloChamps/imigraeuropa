@@ -77,24 +77,7 @@
     "dateModified": "2026-01-01"
   }
   </script>
-  <style>
-  .filtros-vagas {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin: 0 auto 20px;
-    max-width: 1000px;
-    padding: 0 20px;
-  }
-
-  .filtros-vagas select {
-    padding: 8px 10px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    background: #fff;
-    color: #333;
-  }
-</style>
+ 
 </head>
 <body>
 
@@ -571,15 +554,7 @@
 
 <!-- Conteúdo principal --> 
  <main class="noticia-conteudo">
-
-  <div class="filtros-vagas">
-    <select id="filtro-cidade" aria-label="Filtrar vagas por cidade">
-      <option value="">Todas as cidades</option>
-    </select>
-    <select id="filtro-tipo" aria-label="Filtrar vagas por tipo">
-      <option value="">Todos os tipos de vaga</option>
-    </select>
-  </div>
+ 
 
   <section class="vagas-container">
 
@@ -874,61 +849,151 @@
   </div>
 
 
- <script>
+   <!--<script>
       (function () {
-        const vagas = Array.from(document.querySelectorAll('.vagas-container .vaga'));
+        const container = document.querySelector('.vagas-container');
         const filtroCidade = document.getElementById('filtro-cidade');
         const filtroTipo = document.getElementById('filtro-tipo');
 
-        if (!vagas.length || !filtroCidade || !filtroTipo) return;
+        if (!container || !filtroCidade || !filtroTipo) return;
 
-        const cidadeSet = new Set();
-        const tipoSet = new Set();
+        const originalHTML = container.innerHTML;
+        let todasVagas = [];
 
-        vagas.forEach((vaga) => {
-          const titulo = vaga.querySelector('h2')?.textContent.trim() || '';
-          const localTexto = Array.from(vaga.querySelectorAll('p'))
-            .map((p) => p.textContent.trim())
-            .find((txt) => /^Local:/i.test(txt)) || 'Local: Não informado';
+        function extrairVagas(doc) {
+          return Array.from(doc.querySelectorAll('.vagas-container .vaga')).map((vaga) => {
+            const titulo = vaga.querySelector('h2')?.textContent.trim() || '';
+            const localTexto = Array.from(vaga.querySelectorAll('p'))
+              .map((p) => p.textContent.trim())
+              .find((txt) => /^Local:/i.test(txt)) || 'Local: Não informado';
+            const cidade = localTexto.replace(/^Local:\s*/i, '').trim() || 'Não informado';
 
-          const cidade = localTexto.replace(/^Local:\s*/i, '').trim() || 'Não informado';
+            return {
+              html: vaga.outerHTML,
+              tipoLabel: titulo,
+              tipo: titulo.toLowerCase(),
+              cidadeLabel: cidade,
+              cidade: cidade.toLowerCase()
+            };
+          });
+        }
 
-          vaga.dataset.cidade = cidade.toLowerCase();
-          vaga.dataset.tipo = titulo.toLowerCase();
+        function montarCandidatosPaginas() {
+          const candidatos = [];
 
-          cidadeSet.add(cidade);
-          if (titulo) tipoSet.add(titulo);
-        });
+          for (let i = 1; i <= 22; i += 1) {
+            if (i === 1) {
+              candidatos.push([
+                'trabalhar-na-europa-oportunidades-de-emprego.html',
+                'trabalhar-na-europa-oportunidades-de-emprego.html.html'
+              ]);
+              continue;
+            }
 
-        [...cidadeSet].sort((a, b) => a.localeCompare(b, 'pt-BR')).forEach((cidade) => {
-          const opt = document.createElement('option');
-          opt.value = cidade.toLowerCase();
-          opt.textContent = cidade;
-          filtroCidade.appendChild(opt);
-        });
+            const n = String(i).padStart(2, '0');
+            const base = `trabalhar-na-europa-oportunidades-de-emprego${n}`;
+            const lista = [`${base}.html`, `${base}.html.html`];
 
-        [...tipoSet].sort((a, b) => a.localeCompare(b, 'pt-BR')).forEach((tipo) => {
-          const opt = document.createElement('option');
-          opt.value = tipo.toLowerCase();
-          opt.textContent = tipo;
-          filtroTipo.appendChild(opt);
-        });
+            if (i === 22) {
+              lista.push('trabalhar-na-europa-oportunidades-de-emprego22html.html');
+            }
+
+            candidatos.push(lista);
+          }
+
+          return candidatos;
+        }
+
+        async function buscarPrimeiraPaginaDisponivel(candidatos) {
+          for (const url of candidatos) {
+            try {
+              const res = await fetch(url, { cache: 'no-store' });
+              if (res.ok) {
+                const html = await res.text();
+                return html;
+              }
+            } catch (e) {
+              // ignora falha e tenta a próxima URL candidata
+            }
+          }
+
+          return '';
+        }
+
+        function preencherSelect(selectEl, values, labelKey, valueKey, placeholder) {
+          selectEl.innerHTML = `<option value="">${placeholder}</option>`;
+          values.forEach((item) => {
+            const opt = document.createElement('option');
+            opt.value = item[valueKey];
+            opt.textContent = item[labelKey];
+            selectEl.appendChild(opt);
+          });
+        }
 
         function aplicarFiltros() {
           const cidadeSelecionada = filtroCidade.value;
           const tipoSelecionado = filtroTipo.value;
 
-          vagas.forEach((vaga) => {
-            const okCidade = !cidadeSelecionada || vaga.dataset.cidade.includes(cidadeSelecionada);
-            const okTipo = !tipoSelecionado || vaga.dataset.tipo === tipoSelecionado;
-            vaga.style.display = okCidade && okTipo ? '' : 'none';
+          if (!cidadeSelecionada && !tipoSelecionado) {
+            container.innerHTML = originalHTML;
+            return;
+          }
+
+          const filtradas = todasVagas.filter((vaga) => {
+            const okCidade = !cidadeSelecionada || vaga.cidade.includes(cidadeSelecionada);
+            const okTipo = !tipoSelecionado || vaga.tipo === tipoSelecionado;
+            return okCidade && okTipo;
           });
+
+          if (!filtradas.length) {
+            container.innerHTML = '<p>Nenhuma vaga encontrada para este filtro.</p>';
+            return;
+          }
+
+          container.innerHTML = filtradas.map((vaga) => vaga.html).join('');
+        }
+
+        async function carregarVagasDeTodasPaginas() {
+          const vagasDaPaginaAtual = extrairVagas(document);
+          const candidatos = montarCandidatosPaginas();
+          const respostas = await Promise.all(
+            candidatos.map((lista) => buscarPrimeiraPaginaDisponivel(lista))
+          );
+
+          const documentos = respostas
+            .filter(Boolean)
+            .map((html) => new DOMParser().parseFromString(html, 'text/html'));
+
+          const mapaUnico = new Map();
+
+          [...vagasDaPaginaAtual, ...documentos.flatMap((doc) => extrairVagas(doc))].forEach((vaga) => {
+            const chave = `${vaga.tipo}|||${vaga.cidade}|||${vaga.html}`;
+            if (!mapaUnico.has(chave)) {
+              mapaUnico.set(chave, vaga);
+            }
+          });
+
+          todasVagas = [...mapaUnico.values()];
+
+          const cidades = [...new Map(
+            todasVagas.map((vaga) => [vaga.cidade, { cidadeLabel: vaga.cidadeLabel, cidade: vaga.cidade }])
+          ).values()].sort((a, b) => a.cidadeLabel.localeCompare(b.cidadeLabel, 'pt-BR'));
+
+          const tipos = [...new Map(
+            todasVagas.map((vaga) => [vaga.tipo, { tipoLabel: vaga.tipoLabel, tipo: vaga.tipo }])
+          ).values()].sort((a, b) => a.tipoLabel.localeCompare(b.tipoLabel, 'pt-BR'));
+
+          preencherSelect(filtroCidade, cidades, 'cidadeLabel', 'cidade', 'Todas as cidades');
+          preencherSelect(filtroTipo, tipos, 'tipoLabel', 'tipo', 'Todos os tipos de vaga');
         }
 
         filtroCidade.addEventListener('change', aplicarFiltros);
         filtroTipo.addEventListener('change', aplicarFiltros);
+
+        carregarVagasDeTodasPaginas();
       })();
-    </script>
+    </script> -->
+
 
 
     <script src="../script.js"></script>
