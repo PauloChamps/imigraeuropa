@@ -77,7 +77,24 @@
     "dateModified": "2026-01-01"
   }
   </script>
+  <style>
+  .filtros-vagas {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 0 auto 20px;
+    max-width: 1000px;
+    padding: 0 20px;
+  }
 
+  .filtros-vagas select {
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #fff;
+    color: #333;
+  }
+</style>
 </head>
 <body>
 
@@ -554,6 +571,16 @@
 
 <!-- Conteúdo principal --> 
  <main class="noticia-conteudo">
+
+  <div class="filtros-vagas">
+    <select id="filtro-cidade" aria-label="Filtrar vagas por cidade">
+      <option value="">Todas as cidades</option>
+    </select>
+    <select id="filtro-tipo" aria-label="Filtrar vagas por tipo">
+      <option value="">Todos os tipos de vaga</option>
+    </select>
+  </div>
+
   <section class="vagas-container">
 
 <div class="vaga">
@@ -834,6 +861,64 @@
 
 </main>
   </div>
+
+
+ <script>
+      (function () {
+        const vagas = Array.from(document.querySelectorAll('.vagas-container .vaga'));
+        const filtroCidade = document.getElementById('filtro-cidade');
+        const filtroTipo = document.getElementById('filtro-tipo');
+
+        if (!vagas.length || !filtroCidade || !filtroTipo) return;
+
+        const cidadeSet = new Set();
+        const tipoSet = new Set();
+
+        vagas.forEach((vaga) => {
+          const titulo = vaga.querySelector('h2')?.textContent.trim() || '';
+          const localTexto = Array.from(vaga.querySelectorAll('p'))
+            .map((p) => p.textContent.trim())
+            .find((txt) => /^Local:/i.test(txt)) || 'Local: Não informado';
+
+          const cidade = localTexto.replace(/^Local:\s*/i, '').trim() || 'Não informado';
+
+          vaga.dataset.cidade = cidade.toLowerCase();
+          vaga.dataset.tipo = titulo.toLowerCase();
+
+          cidadeSet.add(cidade);
+          if (titulo) tipoSet.add(titulo);
+        });
+
+        [...cidadeSet].sort((a, b) => a.localeCompare(b, 'pt-BR')).forEach((cidade) => {
+          const opt = document.createElement('option');
+          opt.value = cidade.toLowerCase();
+          opt.textContent = cidade;
+          filtroCidade.appendChild(opt);
+        });
+
+        [...tipoSet].sort((a, b) => a.localeCompare(b, 'pt-BR')).forEach((tipo) => {
+          const opt = document.createElement('option');
+          opt.value = tipo.toLowerCase();
+          opt.textContent = tipo;
+          filtroTipo.appendChild(opt);
+        });
+
+        function aplicarFiltros() {
+          const cidadeSelecionada = filtroCidade.value;
+          const tipoSelecionado = filtroTipo.value;
+
+          vagas.forEach((vaga) => {
+            const okCidade = !cidadeSelecionada || vaga.dataset.cidade.includes(cidadeSelecionada);
+            const okTipo = !tipoSelecionado || vaga.dataset.tipo === tipoSelecionado;
+            vaga.style.display = okCidade && okTipo ? '' : 'none';
+          });
+        }
+
+        filtroCidade.addEventListener('change', aplicarFiltros);
+        filtroTipo.addEventListener('change', aplicarFiltros);
+      })();
+    </script>
+
 
     <script src="../script.js"></script>
   </body>
