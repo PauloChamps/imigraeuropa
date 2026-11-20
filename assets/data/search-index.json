@@ -1,0 +1,3466 @@
+[
+  {
+    "title": "ImigraEuropa — página inicial",
+    "description": "Guias, documentos, trabalho e informações para brasileiros na Europa.",
+    "url": "index.html",
+    "country": "",
+    "category": "Página inicial",
+    "keywords": [
+      "ImigraEuropa",
+      "imigrar",
+      "Portugal",
+      "Europa"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Portugal — guias e informações",
+    "description": "Informações sobre Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/index.html",
+    "country": "Portugal",
+    "category": "Portugal",
+    "keywords": [
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentações em Portugal: guia completo para imigrantes (2026)",
+    "description": "Documentações em Portugal em 2026: AIMA, vistos, residência, NIF, NISS, SNS, família, diplomas, seguros e Segurança Social. Links e guias práticos.",
+    "url": "portugal/documentacoes/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentações",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "AIMA",
+    "description": "Informações sobre AIMA em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/aima/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "AIMA",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como reagendar atendimento na AIMA em 2026: canais e cuidados",
+    "description": "Saiba como pedir alteração de agendamento na AIMA em 2026, quais os canais oficiais, como justificar a ausência e evitar fraudes.",
+    "url": "portugal/documentacoes/aima/como-reagendar-aima/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como reagendar na AIMA",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para atendimento na AIMA em 2026: checklist por situação",
+    "description": "Veja documentos para autorização de residência na AIMA em 2026, comprovativo de alojamento, NIF, NISS, antecedentes e envio de documentos em falta.",
+    "url": "portugal/documentacoes/aima/documentos-aima-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos necessários para a AIMA",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Primeiro pedido na AIMA em Portugal: agendamento e documentos",
+    "description": "Como preparar o primeiro pedido de autorização de residência na AIMA: agendamento, documentos, requisitos e acompanhamento atualizado para 2026.",
+    "url": "portugal/documentacoes/aima/primeiro-pedido-aima-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Primeiro pedido na AIMA",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Renovação da autorização de residência na AIMA em 2026",
+    "description": "Guia atualizado sobre renovação da autorização de residência AIMA: Portal de Renovações, elegibilidade, pagamentos, documentos e novidades de 2026.",
+    "url": "portugal/documentacoes/aima/renovacao-autorizacao-residencia-aima/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Renovar autorização de residência",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazos e taxas da AIMA em 2026: valores e orientações oficiais",
+    "description": "Veja como consultar as taxas AIMA em vigor desde março de 2026, prazos de residência, pagamentos, recibos e fontes oficiais.",
+    "url": "portugal/documentacoes/aima/prazos-taxas-aima/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazos e taxas da AIMA",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "AIMA em 2026: perguntas frequentes sobre agendamentos e residência",
+    "description": "Respostas às dúvidas sobre AIMA em 2026: agendamentos, documentos, taxas, renovação, contacto, envio de documentos e residência permanente.",
+    "url": "portugal/documentacoes/aima/faq-aima-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes da AIMA",
+      "Portugal",
+      "Documentações",
+      "AIMA"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Vistos para Portugal em 2026: guia completo por categoria",
+    "description": "Conheça os vistos para Portugal em 2026: D7, estudo, trabalho, Golden Visa, nômade digital, procura de trabalho e reagrupamento familiar.",
+    "url": "portugal/documentacoes/vistos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Vistos",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto de Trabalho em Portugal: como pedir e documentos em 2026",
+    "description": "Guia de visto de trabalho subordinado em Portugal: contrato, consulado, documentos, AIMA e cuidados com ofertas fraudulentas.",
+    "url": "portugal/documentacoes/vistos/visto-de-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto de trabalho",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto de Procura de Trabalho em Portugal: mudanças em 2026",
+    "description": "Visto de procura de trabalho em Portugal em 2026: mudança para trabalho qualificado, Lei 61/2025, regras e confirmação consular.",
+    "url": "portugal/documentacoes/vistos/visto-procura-de-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto procura de trabalho",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto D7 em Portugal: requisitos, documentos e como pedir em 2026",
+    "description": "Guia do visto D7 para aposentados e pessoas com rendimentos próprios: quem pode pedir, documentos, meios de subsistência e AIMA.",
+    "url": "portugal/documentacoes/vistos/visto-d7/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto D7",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto de Estudo em Portugal: documentos e pedido em 2026",
+    "description": "Como pedir visto de estudo em Portugal: admissão, meios de subsistência, seguro, documentação e autorização de residência.",
+    "url": "portugal/documentacoes/vistos/visto-de-estudo/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto de estudo",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto de Nômade Digital em Portugal (D8): requisitos em 2026",
+    "description": "Visto D8 de nômade digital em Portugal: trabalho remoto para o exterior, rendimentos mínimos, documentos, consulado e AIMA.",
+    "url": "portugal/documentacoes/vistos/visto-nomade-digital/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto de nômade digital",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Visto de Reagrupamento Familiar em Portugal: regras de 2026",
+    "description": "Reagrupamento familiar em Portugal em 2026: regras da Lei 61/2025, exceções para menores, documentos, AIMA, consulado e cuidados no pedido.",
+    "url": "portugal/documentacoes/vistos/visto-reagrupamento-familiar/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Visto reagrupamento familiar",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Golden Visa em Portugal: regras, investimentos e ARI em 2026",
+    "description": "Golden Visa (ARI) em Portugal: modalidades de investimento permitidas, documentos, AIMA, requisitos de permanência e limites em 2026.",
+    "url": "portugal/documentacoes/vistos/visto-golden-visa/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Golden Visa",
+      "Portugal",
+      "Documentações",
+      "Vistos"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "NIF",
+    "description": "Informações sobre NIF em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/nif/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "NIF",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como obter NIF em Portugal em 2026: guia para estrangeiros",
+    "description": "Saiba como pedir o NIF em Portugal em 2026, presencialmente ou por representante, com documentos, agendamento e fontes oficiais.",
+    "url": "portugal/documentacoes/nif/como-obter-nif-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como obter nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos necessários para obter NIF em Portugal em 2026",
+    "description": "Checklist oficial de documentos para NIF em Portugal: passaporte, morada, residência fiscal, crianças, procurador e representante fiscal.",
+    "url": "portugal/documentacoes/nif/documentos-necessarios-nif-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos necessarios nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Passo a passo para obter NIF em Portugal em 2026",
+    "description": "Passo a passo atualizado para pedir NIF em Portugal: documentos, agendamento nas Finanças, e-balcão, representantes e alteração de morada.",
+    "url": "portugal/documentacoes/nif/passo-a-passo-nif-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Passo a passo nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazo para obter NIF em Portugal em 2026: emissão e agendamento",
+    "description": "Entenda o prazo para obter NIF em Portugal: marcação nas Finanças, atribuição no atendimento, pedidos pelo e-balcão e fatores que podem causar demora.",
+    "url": "portugal/documentacoes/nif/prazo-para-obter-nif-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazo para obter nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Custos e taxas do NIF em Portugal: o que é gratuito?",
+    "description": "Confira o custo oficial para obter NIF em Portugal, diferenças entre taxas públicas e honorários privados e cuidados com cobranças indevidas.",
+    "url": "portugal/documentacoes/nif/custos-e-taxas-nif-portugal.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Custos e taxas nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Para que serve o NIF em Portugal? Usos, direitos e cuidados em 2026",
+    "description": "Saiba para que serve o NIF em Portugal em 2026: contratos, trabalho, bancos, impostos, e-Fatura, filhos e diferenças entre NIF, NISS e residência.",
+    "url": "portugal/documentacoes/nif/para-que-serve-nif-portugal.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Para que serve nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre o NIF em Portugal (2026)",
+    "description": "Respostas oficiais sobre como pedir NIF em Portugal, custo, documentos, representante fiscal, menores, morada e residência fiscal.",
+    "url": "portugal/documentacoes/nif/faq-nif-portugal.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes sobre o NIF",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Exceções e casos especiais do NIF em Portugal: guia de 2026",
+    "description": "Entenda as regras especiais do NIF para menores, cidadãos da UE, não residentes, representantes fiscais e trabalhadores independentes em Portugal.",
+    "url": "portugal/documentacoes/nif/excecoes-casos-especiais-nif.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Excecoes casos especiais nif",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legislação do NIF em Portugal: leis e regras em 2026",
+    "description": "Conheça a legislação do NIF em Portugal: Decreto-Lei 14/2013, Lei Geral Tributária, domicílio fiscal, representação e notificações eletrónicas.",
+    "url": "portugal/documentacoes/nif/legislacao-nif-portugal.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Legislacao nif portugal",
+      "Portugal",
+      "Documentações",
+      "NIF"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "NISS",
+    "description": "Informações sobre NISS em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/niss/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "NISS",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como obter o NISS em Portugal em 2026: guia completo",
+    "description": "Aprenda a pedir NISS gratuitamente em Portugal: documentos para estrangeiros, pedido online, empregador, menores e comprovativo em 2026.",
+    "url": "portugal/documentacoes/niss/como-obter-niss-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como obter niss portugal",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como consultar o NISS online e obter comprovativo em 2026",
+    "description": "Consulte o pedido de NISS online, acompanhe o estado, obtenha o comprovativo com biometria e conheça alternativas oficiais de atendimento.",
+    "url": "portugal/documentacoes/niss/como-consultar-niss-online/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como consultar niss online",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como atualizar os dados do NISS em Portugal em 2026",
+    "description": "Saiba como alterar morada, contactos, IBAN e corrigir dados do NISS na Segurança Social Direta, com orientações oficiais atualizadas em 2026.",
+    "url": "portugal/documentacoes/niss/atualizar-dados-niss-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Atualizar dados niss portugal",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "NISS em Portugal: direitos e obrigações na Segurança Social em 2026",
+    "description": "Entenda o que o NISS permite, descontos, deveres do empregador, trabalhadores independentes e proteção social em Portugal.",
+    "url": "portugal/documentacoes/niss/direitos-e-obrigacoes-niss-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Direitos e obrigacoes niss portugal",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "NISS em Portugal: perguntas frequentes atualizadas em 2026",
+    "description": "Perguntas e respostas sobre NISS gratuito, pedido online, documentos, contratos, Segurança Social Direta, contribuições e estrangeiros.",
+    "url": "portugal/documentacoes/niss/faq-niss-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes sobre o NISS",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legislação do NISS em Portugal: leis e links oficiais em 2026",
+    "description": "Consulte a legislação sobre NISS, inscrição de trabalhadores, alterações de 2026 e fontes oficiais da Segurança Social e AIMA.",
+    "url": "portugal/documentacoes/niss/legislacao-niss-links-uteis/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Legislacao niss links uteis",
+      "Portugal",
+      "Documentações",
+      "NISS"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para Dependentes e Reagrupamento Familiar em Portugal",
+    "description": "Cinco guias atualizados sobre reagrupamento familiar em Portugal: documentos para cônjuges e filhos, exceções, perguntas frequentes, procedimento e taxas.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Reagrupamento familiar",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Procedimento de reagrupamento familiar em Portugal",
+    "description": "Passo a passo do reagrupamento familiar em Portugal em novembro de 2026: formulário AIMA, familiares dentro ou fora do país, documentos e atendimento.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/procedimento-reagrupamento-familiar-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Procedimento reagrupamento familiar portugal",
+      "Portugal",
+      "Documentações",
+      "Reagrupamento familiar"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para cônjuges e filhos no reagrupamento familiar em Portugal",
+    "description": "Guia 2026 de documentos para reagrupamento familiar de cônjuge e filhos em Portugal: certidões, alojamento, meios de subsistência e pedidos na AIMA.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/documentos-conjuges-e-filhos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos conjuges e filhos portugal",
+      "Portugal",
+      "Documentações",
+      "Reagrupamento familiar"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Exceções ao reagrupamento familiar: prazos e situações especiais em Portugal",
+    "description": "Exceções ao reagrupamento familiar em 2026: menores, cônjuges, titulares de residência qualificada e situações humanitárias na Lei n.º 61/2025.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/excecoes-reagrupamento-familiar/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Excecoes reagrupamento familiar",
+      "Portugal",
+      "Documentações",
+      "Reagrupamento familiar"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Taxas do reagrupamento familiar em Portugal",
+    "description": "Taxas do reagrupamento familiar em Portugal em 2026: tabela AIMA atualizada, pagamentos, isenções, despesas adicionais e como confirmar o valor.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/taxas-reagrupamento-familiar/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Taxas reagrupamento familiar",
+      "Portugal",
+      "Documentações",
+      "Reagrupamento familiar"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Reagrupamento familiar em Portugal: perguntas frequentes atualizadas",
+    "description": "FAQ de reagrupamento familiar em Portugal em 2026: novos agendamentos AIMA, familiares dentro e fora do país, documentos, prazos e taxas.",
+    "url": "portugal/documentacoes/documentos-para-dependentes/faq-reagrupamento-familiar/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes reagrupamento familiar",
+      "Portugal",
+      "Documentações",
+      "Reagrupamento familiar"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cartão de residência",
+    "description": "Informações sobre Cartão de residência em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/cartao-de-residencia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Cartão de residência",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como solicitar autorização de residência em Portugal em 2026",
+    "description": "Como solicitar autorização de residência em Portugal: vistos, AIMA, documentos, agendamento, residência para trabalho e regras atualizadas em 2026.",
+    "url": "portugal/documentacoes/cartao-de-residencia/como-solicitar-residencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como solicitar residencia portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como renovar o cartão de residência em Portugal em 2026",
+    "description": "Passo a passo da renovação do cartão de residência pela AIMA em 2026: Portal de Renovações, documentos, pagamento e comprovativo.",
+    "url": "portugal/documentacoes/cartao-de-residencia/renovar-cartao-residencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Renovar cartao residencia portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos adicionais para autorização de residência na AIMA",
+    "description": "Documentos adicionais para residência em Portugal: como responder a notificações da AIMA, comprovar morada, vínculo laboral e entregar elementos corretamente.",
+    "url": "portugal/documentacoes/cartao-de-residencia/documentos-adicionais-residencia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos adicionais residencia",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Taxas e validade do cartão de residência em Portugal em 2026",
+    "description": "Veja as regras de validade da autorização de residência e como consultar as taxas oficiais da AIMA atualizadas em março de 2026.",
+    "url": "portugal/documentacoes/cartao-de-residencia/taxas-validade-cartao-residencia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Taxas validade cartao residencia",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Direitos e deveres de quem tem autorização de residência em Portugal",
+    "description": "Direitos e deveres de residentes estrangeiros em Portugal em 2026: trabalho, saúde, educação, impostos, ausências, renovação e obrigações legais.",
+    "url": "portugal/documentacoes/cartao-de-residencia/direitos-deveres-residencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Direitos deveres residencia portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Exceções e prazos da autorização de residência em Portugal",
+    "description": "Entenda prazos de residência em Portugal, regras de renovação, fim das prorrogações automáticas, ausências e exceções legais em 2026.",
+    "url": "portugal/documentacoes/cartao-de-residencia/excecoes-prazos-residencia.html/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Exceções e prazos de residência",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "FAQ do cartão de residência em Portugal: dúvidas respondidas em 2026",
+    "description": "Respostas sobre cartão de residência em Portugal: AIMA, validade, renovação, taxas, documentos, título expirado e comprovativo de 180 dias.",
+    "url": "portugal/documentacoes/cartao-de-residencia/faq-cartao-residencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes cartao residencia portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de residência"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Número de utente",
+    "description": "Informações sobre Número de utente em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/numero-de-utente/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Número de utente",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como Obter o Número de Utente em Portugal em 2026: documentos e passos",
+    "description": "Passo a passo para obter número de utente SNS em Portugal em 2026, documentos, estrangeiros, centro de saúde e pedido conjunto NIF NISS.",
+    "url": "portugal/documentacoes/numero-de-utente/como-obter-numero-utente-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como obter numero utente portugal",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Registo no SNS em Portugal: inscrição no centro de saúde e RNU",
+    "description": "Entenda o Registo Nacional de Utentes, a inscrição no centro de saúde, os documentos e as regras para estrangeiros em 2026.",
+    "url": "portugal/documentacoes/numero-de-utente/registro-sns-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Registo no SNS",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como Marcar Consulta no SNS em Portugal: guia atualizado de 2026",
+    "description": "Saiba como marcar consulta no centro de saúde em Portugal, requisitos de inscrição, SNS 24, atendimento presencial e cuidados urgentes.",
+    "url": "portugal/documentacoes/numero-de-utente/como-marcar-consulta-sns/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como marcar consulta sns",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Número de Utente Provisório em Portugal: registo no SNS em 2026",
+    "description": "Entenda o que significa ter registo incompleto no SNS, número de utente, acesso de estrangeiros e cobertura das despesas de saúde em 2026.",
+    "url": "portugal/documentacoes/numero-de-utente/cartao-utente-provisorio/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Cartao utente provisorio",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Emergências e direitos no SNS: guia para residentes e imigrantes em Portugal",
+    "description": "Saiba quando ligar 112 ou SNS 24, quais são os direitos dos utentes e como procurar cuidados de saúde em Portugal.",
+    "url": "portugal/documentacoes/numero-de-utente/emergencia-sns-direitos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Emergencia sns direitos",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Vantagens do número de utente do SNS em Portugal: o que permite e o que não garante",
+    "description": "Conheça a utilidade do número de utente para cuidados de saúde, registo, consultas, acesso digital e as limitações de cobertura.",
+    "url": "portugal/documentacoes/numero-de-utente/vantagens-numero-utente-sns/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Vantagens numero utente sns",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre o número de utente do SNS em Portugal (2026)",
+    "description": "Respostas verificadas sobre número de utente, inscrição, estrangeiros, custos, cobertura, consultas e dados do RNU.",
+    "url": "portugal/documentacoes/numero-de-utente/faq-numero-utente-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes numero utente portugal",
+      "Portugal",
+      "Documentações",
+      "Número de utente"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Segurança Social",
+    "description": "Informações sobre Segurança Social em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/seguranca-social/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Segurança Social",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Registo na Segurança Social em Portugal: guia atualizado",
+    "description": "Saiba como funciona o registo na Segurança Social, a atribuição do NISS e a inscrição de trabalhadores dependentes e independentes.",
+    "url": "portugal/documentacoes/seguranca-social/registro-seguranca-social-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Registo na Segurança Social",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Contribuições para a Segurança Social em Portugal: taxas e pagamentos",
+    "description": "Saiba como funcionam os descontos de 11%, a contribuição patronal de 23,75%, os recibos verdes e os pagamentos à Segurança Social.",
+    "url": "portugal/documentacoes/seguranca-social/contribuicoes-seguranca-social-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Contribuicoes seguranca social portugal",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Simulação de Contribuições para a Segurança Social em Portugal",
+    "description": "Aprenda a estimar contribuições de trabalhadores por conta de outrem e independentes, com exemplos e ressalvas legais para 2026.",
+    "url": "portugal/documentacoes/seguranca-social/simulacao-contribuicoes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Simulacao contribuicoes portugal",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Dependentes na Segurança Social em Portugal: filhos e agregado familiar",
+    "description": "Entenda o conceito de dependentes, o agregado familiar, o abono de família e os documentos habitualmente necessários para prestações sociais.",
+    "url": "portugal/documentacoes/seguranca-social/dependentes-seguranca-social/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Dependentes seguranca social",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legislação da Segurança Social em Portugal: leis e regras em 2026",
+    "description": "Conheça o Código Contributivo, a Lei de Bases, os regimes de trabalhadores e as fontes oficiais da Segurança Social em Portugal.",
+    "url": "portugal/documentacoes/seguranca-social/legislacao-seguranca-social-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Legislacao seguranca social portugal",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre a Segurança Social em Portugal",
+    "description": "Respostas verificáveis sobre NISS, descontos, empregadores, trabalhadores independentes, dependentes, carreira contributiva e Segurança Social Direta.",
+    "url": "portugal/documentacoes/seguranca-social/faq-seguranca-social/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes seguranca social",
+      "Portugal",
+      "Documentações",
+      "Segurança Social"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Autorização de trabalho",
+    "description": "Informações sobre Autorização de trabalho em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Autorização de trabalho",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como solicitar autorização para trabalhar em Portugal",
+    "description": "Como obter visto e autorização de residência para trabalhar em Portugal em 2026: requisitos, documentos, AIMA e mudanças na lei.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/como-solicitar-autorizacao-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como solicitar autorizacao trabalho",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Quando é necessária autorização para trabalhar em Portugal?",
+    "description": "Descubra quando estrangeiros precisam de visto ou título que permita trabalhar em Portugal e as diferenças entre cidadãos UE, residência e trabalho independente.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/quando-e-necessaria-autorizacao-trabalho-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Quando e necessaria autorizacao trabalho portugal",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Vistos e autorização de trabalho em Portugal: guia atualizado para 2026",
+    "description": "Compare visto para trabalho dependente, trabalho independente, procura de trabalho qualificado e residência para trabalhar em Portugal após mudanças de 2025.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/vistos-e-autorizacao-trabalho-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Vistos e autorizacao trabalho portugal",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazos e validade da autorização de trabalho em Portugal em 2026",
+    "description": "Entenda os prazos e a validade dos títulos de residência para trabalho em Portugal, renovações, comprovativos e regras atualizadas em 2026.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/prazos-validade-autorizacao-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazos validade autorizacao trabalho",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legislação para estrangeiros que trabalham em Portugal",
+    "description": "Legislação de 2026 para estrangeiros que trabalham em Portugal: Lei 23/2007, alterações de 2025, vistos, AIMA e direitos laborais.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/legislacao-trabalho-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Legislacao trabalho portugal",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre autorização de trabalho em Portugal",
+    "description": "FAQ atualizada de 2026 sobre autorização para trabalhar em Portugal: visto, AIMA, contrato, procura de trabalho e renovação.",
+    "url": "portugal/documentacoes/autorizacao-de-trabalho/faq-autorizacao-trabalho/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes autorizacao trabalho",
+      "Portugal",
+      "Documentações",
+      "Autorização de trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Antecedentes criminais",
+    "description": "Informações sobre Antecedentes criminais em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/antecedentes-criminais/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Antecedentes criminais",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como obter o certificado de antecedentes criminais em Portugal em 2026",
+    "description": "Como pedir o registo criminal em Portugal em 2026: online, presencialmente ou por telefone, preço de 5 €, validade, documentos e acesso para estrangeiros.",
+    "url": "portugal/documentacoes/antecedentes-criminais/como-obter-antecedentes-criminais-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como obter antecedentes criminais portugal",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Validade dos antecedentes criminais em Portugal: prazos e renovação",
+    "description": "Qual é a validade do certificado de registo criminal português? Entenda os 90 dias, como consultar o código, pedir novo certificado e confirmar exigências da AIMA.",
+    "url": "portugal/documentacoes/antecedentes-criminais/validade-antecedentes-criminais/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Validade antecedentes criminais",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Tradução e apostilamento de antecedentes criminais para Portugal",
+    "description": "Saiba quando traduzir, apostilar ou legalizar antecedentes criminais estrangeiros para Portugal. Regras oficiais, exceções da União Europeia e cuidados com a AIMA.",
+    "url": "portugal/documentacoes/antecedentes-criminais/traducao-apostilamento-antecedentes-criminais/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Traducao apostilamento antecedentes criminais",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Uso dos antecedentes criminais em Portugal: AIMA, trabalho e nacionalidade",
+    "description": "Entenda quando apresentar antecedentes criminais em Portugal, como funcionam os pedidos na AIMA e na nacionalidade e como conferir o certificado oficial.",
+    "url": "portugal/documentacoes/antecedentes-criminais/uso-antecedentes-criminais-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Uso antecedentes criminais portugal",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Exceções ao certificado de antecedentes criminais em Portugal: quando não é necessário",
+    "description": "Saiba quando o certificado de registo criminal pode ser dispensado em Portugal, como funciona a consulta pela AIMA e quais exceções exigem atenção em 2026.",
+    "url": "portugal/documentacoes/antecedentes-criminais/excecoes-antecedentes-criminais/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Excecoes antecedentes criminais",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "FAQ sobre antecedentes criminais em Portugal: dúvidas respondidas em 2026",
+    "description": "Perguntas frequentes sobre registo criminal em Portugal: preço, validade, pedido online, AIMA, certificado estrangeiro, autenticação e consulta em 2026.",
+    "url": "portugal/documentacoes/antecedentes-criminais/faq-antecedentes-criminais/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes antecedentes criminais",
+      "Portugal",
+      "Documentações",
+      "Antecedentes criminais"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Reconhecimento de diplomas",
+    "description": "Informações sobre Reconhecimento de diplomas em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Reconhecimento de diplomas",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como validar diploma estrangeiro em Portugal: guia 2026",
+    "description": "Entenda como reconhecer diplomas estrangeiros em Portugal: DGES, modalidades, documentos, custos e profissões regulamentadas.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/como-validar-diploma-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como validar diploma em portugal",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para reconhecimento de diploma em Portugal",
+    "description": "Veja os documentos exigidos para reconhecer diploma estrangeiro em Portugal e quando são necessárias traduções e autenticações.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/documentos-reconhecimento-diploma/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos reconhecimento diploma",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Reconhecimento de Diplomas para Profissionais Estrangeiros em Portugal",
+    "description": "Guia para profissionais estrangeiros: diferenças entre reconhecimento académico e profissional, ordens e profissões regulamentadas.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/reconhecimento-diploma-profissionais-estrangeiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Reconhecimento diploma profissionais estrangeiros portugal",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazos e Custos do Reconhecimento de Diplomas em Portugal",
+    "description": "Saiba quanto pode demorar o reconhecimento de diplomas estrangeiros, como consultar taxas e evitar custos inesperados.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/prazos-custos-reconhecimento-diploma/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazos custos reconhecimento diploma",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Leis de Reconhecimento de Diplomas em Portugal: guia atualizado",
+    "description": "Entenda o Decreto-Lei 66/2018, a Portaria 33/2019 e as regras de reconhecimento académico e profissional em Portugal.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/leis-reconhecimento-diplomas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Leis reconhecimento diplomas portugal",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "FAQ: reconhecimento de diplomas estrangeiros em Portugal",
+    "description": "Respostas oficiais às dúvidas sobre reconhecimento de diplomas: DGES, equivalência, taxas, prazos e profissões regulamentadas.",
+    "url": "portugal/documentacoes/reconhecimento-de-diplomas/faq-reconhecimento-diplomas/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes reconhecimento diplomas",
+      "Portugal",
+      "Documentações",
+      "Reconhecimento de diplomas"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legalização e traduções",
+    "description": "Informações sobre Legalização e traduções em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Legalização e traduções",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Apostila de Haia em Portugal: como funciona e quando é necessária",
+    "description": "Saiba como funciona a Apostila de Haia em Portugal, quem emite, quando é exigida, diferenças para legalização consular e exceções na União Europeia.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/apostila-de-haia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Apostila de haia portugal",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Quando é necessária a tradução de documentos?",
+    "description": "Entenda quando documentos estrangeiros precisam de tradução certificada em Portugal, as dispensas do IRN e as regras europeias atualizadas em 2026.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/quando-e-necessaria-traducao-documentos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Quando e necessaria traducao documentos",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Tradução juramentada em Portugal: tradução certificada",
+    "description": "Tradução juramentada e tradução certificada em Portugal: quem pode certificar, como funciona, quando é exigida e regras do IRN em 2026.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/traducao-juramentada-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Traducao juramentada portugal",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazos e custos de legalização de documentos",
+    "description": "Saiba quanto custa a Apostila de Haia em Portugal, como verificar prazos, custos de tradução certificada e possíveis dispensas em 2026.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/prazos-custos-legalizacao-documentos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazos custos legalizacao documentos",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Links oficiais para legalização e tradução de documentos em Portugal",
+    "description": "Reúna fontes oficiais para apostila, legalização consular, tradução certificada, documentos da União Europeia e reconhecimento documental na AIMA.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/links-oficiais-legalizacao-documentos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Links oficiais legalizacao documentos",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Legalização de documentos em Portugal: perguntas frequentes",
+    "description": "Respostas sobre apostila, legalização consular, tradução certificada, documentos brasileiros, formulários multilingues e exigências da AIMA.",
+    "url": "portugal/documentacoes/legalizacao-e-traducoes-de-documentos/faq-legalizacao-documentos/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes legalizacao documentos",
+      "Portugal",
+      "Documentações",
+      "Legalização e traduções"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cidadania europeia",
+    "description": "Informações sobre Cidadania europeia em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Cidadania europeia",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como Obter Cidadania Europeia em Portugal: Nacionalidade Portuguesa",
+    "description": "Saiba como obter cidadania europeia pela nacionalidade portuguesa, critérios, canais oficiais e procedimentos em 2026.",
+    "url": "portugal/documentacoes/cidadania-europeia/como-obter-cidadania-europeia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como obter cidadania europeia portugal",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para Cidadania Europeia: Nacionalidade Portuguesa em 2026",
+    "description": "Veja quais documentos podem ser exigidos para a nacionalidade portuguesa, certidões, antecedentes, tradução, apostila e entrega em 2026.",
+    "url": "portugal/documentacoes/cidadania-europeia/documentos-cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos cidadania europeia",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Benefícios da Cidadania Europeia: Direitos e Limites em 2026",
+    "description": "Entenda os direitos dos cidadãos da União Europeia: circulação, trabalho, estudo, voto, proteção consular e limites legais.",
+    "url": "portugal/documentacoes/cidadania-europeia/beneficios-cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Beneficios cidadania europeia",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Prazos e taxas da cidadania europeia em Portugal: guia 2026",
+    "description": "Prazos e custos dos pedidos de nacionalidade portuguesa em 2026: residência legal, regime transitório, taxas por modalidade e acompanhamento.",
+    "url": "portugal/documentacoes/cidadania-europeia/prazos-taxas-cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Prazos taxas cidadania europeia",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Leis da cidadania europeia e nacionalidade portuguesa: mudanças de 2026",
+    "description": "Conheça a legislação da cidadania da União Europeia e a Lei da Nacionalidade portuguesa atualizada em maio de 2026, requisitos e regime transitório.",
+    "url": "portugal/documentacoes/cidadania-europeia/leis-cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Leis cidadania europeia",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "FAQ da cidadania europeia: nacionalidade portuguesa em 2026",
+    "description": "Perguntas frequentes sobre cidadania europeia e nacionalidade portuguesa: requisitos, novas regras de 2026, documentos, custos e pedidos pendentes.",
+    "url": "portugal/documentacoes/cidadania-europeia/faq-cidadania-europeia/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes cidadania europeia",
+      "Portugal",
+      "Documentações",
+      "Cidadania europeia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cartão de Cidadão",
+    "description": "Informações sobre Cartão de Cidadão em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/cartao-cidadao/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Cartão de Cidadão",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como solicitar o Cartão de Cidadão em Portugal em 2026",
+    "description": "Quem pode pedir o Cartão de Cidadão em Portugal, como agendar no IRN, preços oficiais e orientações para brasileiros com Estatuto de Igualdade.",
+    "url": "portugal/documentacoes/cartao-cidadao/como-solicitar-cartao-cidadao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como solicitar cartao cidadao portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos para pedir o Cartão de Cidadão em Portugal",
+    "description": "Checklist de documentos para primeiro Cartão de Cidadão, portugueses e brasileiros com Estatuto de Igualdade, carta PIN e preparação do atendimento.",
+    "url": "portugal/documentacoes/cartao-cidadao/documentos-cartao-cidadao/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Documentos cartao cidadao",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Renovar Cartão de Cidadão em Portugal: como fazer em 2026",
+    "description": "Como renovar o Cartão de Cidadão em Portugal em 2026: renovação online, presencial, automática, custos, carta PIN e regras para brasileiros.",
+    "url": "portugal/documentacoes/cartao-cidadao/renovar-cartao-cidadao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Renovar cartao cidadao portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Validade do Cartão de Cidadão em Portugal: prazos e exceções",
+    "description": "Validade do Cartão de Cidadão em 2026: cinco ou dez anos, exceção de 2031, regras para brasileiros e quando pedir renovação.",
+    "url": "portugal/documentacoes/cartao-cidadao/validade-cartao-cidadao/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Validade cartao cidadao",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Serviços do Cartão de Cidadão em Portugal: guia atualizado",
+    "description": "Conheça os serviços do Cartão de Cidadão: alteração de morada, PIN, autenticação, cancelamento, levantamento, renovação e atendimento externo.",
+    "url": "portugal/documentacoes/cartao-cidadao/servicos-cartao-cidadao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Servicos cartao cidadao portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre o Cartão de Cidadão em Portugal",
+    "description": "Respostas oficiais sobre quem pode pedir o Cartão de Cidadão, preços, validade, brasileiros, morada, agendamento e renovação em 2026.",
+    "url": "portugal/documentacoes/cartao-cidadao/faq-cartao-cidadao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes cartao cidadao portugal",
+      "Portugal",
+      "Documentações",
+      "Cartão de Cidadão"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguros",
+    "description": "Informações sobre Seguros em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Seguros",
+      "Portugal",
+      "Documentações"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguro Automóvel em Portugal: obrigação, coberturas e preços",
+    "description": "Saiba o que cobre o seguro automóvel obrigatório em Portugal, capitais mínimos, danos próprios, documentos, preços e o que fazer em caso de acidente.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/seguro-automovel-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Seguro automovel portugal",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguro de Saúde em Portugal: coberturas, carências e diferenças do SNS",
+    "description": "Entenda como funciona o seguro de saúde privado em Portugal, diferenças para planos de saúde, períodos de carência, exclusões, reembolso e SNS.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/seguro-saude-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Seguro saude portugal",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguro de Viagem em Portugal: coberturas, CESD e cuidados antes de viajar",
+    "description": "Saiba quando o seguro de viagem é exigido, o que pode cobrir, diferenças para o Cartão Europeu de Seguro de Doença e como comparar apólices.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/seguro-viagem-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Seguro viagem portugal",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como contratar seguro em Portugal: guia passo a passo",
+    "description": "Saiba como escolher e contratar seguro em Portugal, comparar propostas e verificar seguradoras e mediadores na ASF.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/como-contratar-seguro-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Como contratar seguro portugal",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Coberturas e limites dos seguros em Portugal: guia 2026",
+    "description": "Entenda coberturas, capitais seguros, franquias, exclusões e limites dos seguros em Portugal com fontes oficiais da ASF.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/coberturas-e-limites-seguros/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Coberturas e limites seguros",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Perguntas frequentes sobre seguros em Portugal",
+    "description": "Respostas a dúvidas sobre seguros obrigatórios, automóvel, saúde, viagem, coberturas e contratação em Portugal.",
+    "url": "portugal/documentacoes/seguros-obrigatorios-e-recomendados/faq-seguros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Documentações",
+    "keywords": [
+      "Perguntas frequentes seguros portugal",
+      "Portugal",
+      "Documentações",
+      "Seguros"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Trabalho em Portugal e na Europa: guias completos",
+    "description": "Guias de trabalho em Portugal e na Europa: emprego, currículo, contratos, direitos, salários, horários, impostos, férias e setores com oportunidades.",
+    "url": "portugal/trabalho/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Trabalho",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Trabalho na Europa: vagas e oportunidades de emprego",
+    "description": "Consulte anúncios de emprego arquivados na atualização de setembro de 2026. Página 1 de 3, com localização, descrição e contactos originais. Confirme a disponibilidade.",
+    "url": "portugal/trabalho/trabalhar-na-europa-oportunidades-de-emprego.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Vagas de emprego na Europa",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Sites de emprego em Portugal e na Europa: onde procurar vagas em 2026",
+    "description": "Conheça os portais oficiais de emprego em Portugal e na Europa, como IEFP e EURES, e veja como pesquisar vagas e evitar fraudes.",
+    "url": "portugal/trabalho/sites-de-emprego-em-portugal-europa.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Sites de emprego em Portugal e na Europa",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Como fazer um currículo europeu em 2026: modelo, Europass e exemplo",
+    "description": "Aprenda a montar um currículo para Portugal e a Europa, com modelo prático, Europass, competências, experiência e erros a evitar.",
+    "url": "portugal/trabalho/como-fazer-curriculo-europeu-modelo-e-exemplo.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Como fazer um currículo europeu",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Salário mínimo em Portugal em 2026: continente, Açores e Madeira",
+    "description": "Veja o salário mínimo de 2026 em Portugal: 920 € no continente, 966 € nos Açores e 980 € na Madeira. Entenda bruto, líquido e 14 pagamentos.",
+    "url": "portugal/trabalho/salario-minimo-em-portugal-europa-atualizado.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Salário mínimo em Portugal e na Europa",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Contrato de trabalho em Portugal: tipos, cláusulas e direitos em 2026",
+    "description": "Entenda contratos sem termo, a termo certo e incerto, período experimental, informação obrigatória e cuidados antes de assinar em Portugal.",
+    "url": "portugal/trabalho/contrato-de-trabalho-em-portugal-europa.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Contratos de trabalho em Portugal e na Europa",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Direitos do trabalhador em Portugal em 2026: guia para brasileiros",
+    "description": "Conheça direitos laborais em Portugal: remuneração, férias, subsídios, descanso, segurança, discriminação e onde pedir ajuda.",
+    "url": "portugal/trabalho/direitos-do-trabalhador-em-portugal-europa.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Direitos do trabalhador",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Horário de trabalho em Portugal: 8 horas, 40 horas e horas extra em 2026",
+    "description": "Saiba como funcionam as jornadas de trabalho em Portugal: limite diário e semanal, pausas, descanso, turnos e trabalho suplementar.",
+    "url": "portugal/trabalho/horas-de-trabalho-em-portugal-europa-jornada.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Horários e jornada de trabalho",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Trabalho autônomo em Portugal em 2026: abrir atividade e emitir recibos verdes",
+    "description": "Guia para brasileiros sobre abrir atividade nas Finanças, recibos verdes, IVA, IRS e contribuições à Segurança Social em Portugal.",
+    "url": "portugal/trabalho/trabalho-autonomo-em-portugal-como-funciona.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Trabalho autónomo em Portugal",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Férias e licenças em Portugal em 2026: dias, subsídios e direitos",
+    "description": "Saiba quantos dias de férias existem em Portugal, como funciona o primeiro ano, subsídio de férias, feriados e licenças legais.",
+    "url": "portugal/trabalho/ferias-e-licencas-em-portugal-direitos.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Férias e licenças em Portugal",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Impostos e contribuições sobre o trabalho em Portugal em 2026: IRS e Segurança Social",
+    "description": "Entenda os descontos no salário em Portugal: Segurança Social, retenção de IRS, recibo de vencimento e diferenças entre empregados e independentes.",
+    "url": "portugal/trabalho/impostos-e-contribuicoes-em-portugal-trabalho.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Impostos e contribuições sobre o trabalho",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Subsídio de desemprego em Portugal em 2026: requisitos, prazo e pedido",
+    "description": "Veja quem pode receber subsídio de desemprego em Portugal, o prazo de 90 dias, inscrição no IEFP, condições e como pedir em 2026.",
+    "url": "portugal/trabalho/seguro-desemprego-em-portugal-como-funciona.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Subsídio de desemprego em Portugal",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Contratação internacional em 2026: como conseguir emprego em Portugal e na Europa",
+    "description": "Entenda a contratação internacional, vagas para brasileiros no exterior, contratos, vistos, NISS e cuidados contra fraudes em 2026.",
+    "url": "portugal/trabalho/contratacao-internacional-trabalhar-na-europa.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Contratação internacional",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Entrevista de emprego em Portugal e na Europa: perguntas, respostas e preparação",
+    "description": "Saiba como preparar entrevistas de emprego em Portugal e na Europa, responder perguntas, negociar condições e evitar erros em videochamadas.",
+    "url": "portugal/trabalho/dicas-para-entrevista-de-emprego-na-europa.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Como preparar uma entrevista de emprego",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Mercado de trabalho na Europa em 2026: setores em alta",
+    "description": "Mercado de trabalho na Europa em 2026: conheça os setores com escassez de profissionais, tendências por país e como encontrar oportunidades com fontes oficiais.",
+    "url": "portugal/trabalho/mercado-de-trabalho-na-europa-setores-em-alta.html/index.html",
+    "country": "Portugal",
+    "category": "Trabalho",
+    "keywords": [
+      "Mercado de trabalho e setores em alta",
+      "Portugal",
+      "Trabalho"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Moradia",
+    "description": "Informações sobre Moradia em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Moradia",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Alugar casa Portugal arrendamento",
+    "description": "Informações sobre Alugar casa Portugal arrendamento em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/alugar-casa-portugal-arrendamento/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Alugar casa Portugal arrendamento",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Casas quartos compartilhados Portugal",
+    "description": "Informações sobre Casas quartos compartilhados Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/casas-quartos-compartilhados-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Casas quartos compartilhados Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Comprar imovel Portugal",
+    "description": "Informações sobre Comprar imovel Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/comprar-imovel-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Comprar imovel Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Contrato arrendamento Portugal",
+    "description": "Informações sobre Contrato arrendamento Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/contrato-arrendamento-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Contrato arrendamento Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Custo despesas mensais casa Portugal",
+    "description": "Informações sobre Custo despesas mensais casa Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/custo-despesas-mensais-casa-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Custo despesas mensais casa Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Direitos deveres inquilino Portugal",
+    "description": "Informações sobre Direitos deveres inquilino Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/direitos-deveres-inquilino-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Direitos deveres inquilino Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos necessarios arrendamento Portugal",
+    "description": "Informações sobre Documentos necessarios arrendamento Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/documentos-necessarios-arrendamento-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Documentos necessarios arrendamento Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Fiador garantias arrendamento Portugal",
+    "description": "Informações sobre Fiador garantias arrendamento Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/fiador-garantias-arrendamento-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Fiador garantias arrendamento Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Fraudes arrendamento Portugal",
+    "description": "Informações sobre Fraudes arrendamento Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/fraudes-arrendamento-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Fraudes arrendamento Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Imobiliarias sites para alugar casa Portugal",
+    "description": "Informações sobre Imobiliarias sites para alugar casa Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/imobiliarias-sites-para-alugar-casa-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Imobiliarias sites para alugar casa Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Imoveis mobiliados ou nao Portugal",
+    "description": "Informações sobre Imoveis mobiliados ou nao Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/imoveis-mobiliados-ou-nao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Imoveis mobiliados ou nao Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Melhores cidades zonas para morar Portugal",
+    "description": "Informações sobre Melhores cidades zonas para morar Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/melhores-cidades-zonas-para-morar-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Melhores cidades zonas para morar Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Moradia temporaria Portugal",
+    "description": "Informações sobre Moradia temporaria Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/moradia-temporaria-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Moradia temporaria Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Quartos para alugar Portugal",
+    "description": "Informações sobre Quartos para alugar Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/quartos-para-alugar-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Quartos para alugar Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Taxas custos arrendamento Portugal",
+    "description": "Informações sobre Taxas custos arrendamento Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/moradia/taxas-custos-arrendamento-portugal/index.html",
+    "country": "Portugal",
+    "category": "Moradia",
+    "keywords": [
+      "Taxas custos arrendamento Portugal",
+      "Portugal",
+      "Moradia"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Educação em Portugal: escolas, faculdades e cursos",
+    "description": "Guias de educação em Portugal para brasileiros: escolas, creches, ensino superior, cursos profissionais, equivalência de diplomas, bolsas e estudos online.",
+    "url": "portugal/educacao/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Educação",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Educação infantil em Portugal: creche, pré-escolar e matrículas 2026/2027",
+    "description": "Entenda a educação infantil em Portugal: creches, pré-escolar, idade de entrada, Portal das Matrículas e prazos oficiais de 2026/2027.",
+    "url": "portugal/educacao/educacao-infantil-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Educacao infantil Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Ensino básico e secundário em Portugal: anos escolares e matrículas 2026/2027",
+    "description": "Guia para brasileiros sobre ensino básico e secundário em Portugal: equivalência ao ensino médio, matrículas, calendário de 2026/2027 e escolas.",
+    "url": "portugal/educacao/ensino-basico-e-medio-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Ensino basico e medio Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Faculdade em Portugal: como entrar no ensino superior em 2026/2027",
+    "description": "Guia para estudar numa faculdade em Portugal: universidades, politécnicos, concurso internacional, ENEM, propinas e candidaturas 2026/2027.",
+    "url": "portugal/educacao/ensino-superior-faculdade-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Ensino superior faculdade Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Ensino técnico-profissional em Portugal: cursos, níveis e certificações",
+    "description": "Entenda o ensino técnico-profissional em Portugal, os cursos profissionais de nível 4, CET de nível 5, estágios e acesso ao ensino superior.",
+    "url": "portugal/educacao/ensino-tecnico-profissional-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Ensino tecnico profissional Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Equivalência de diplomas em Portugal: reconhecer estudos brasileiros",
+    "description": "Veja como pedir equivalência escolar e reconhecimento de diplomas universitários em Portugal, diferenças entre os procedimentos e prazos da DGES.",
+    "url": "portugal/educacao/equivalencia-diplomas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Equivalencia diplomas Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Estudantes estrangeiros em Portugal: matrícula e integração escolar",
+    "description": "Guia para estudantes estrangeiros em Portugal: matrícula, equivalência escolar, acolhimento, Português Língua Não Materna e integração de famílias brasileiras.",
+    "url": "portugal/educacao/estudantes-estrangeiros-portugal-integracao/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Estudantes estrangeiros Portugal integracao",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Bolsas de estudo em Portugal em 2026/2027: quem pode pedir e como se candidatar",
+    "description": "Entenda as bolsas de estudo em Portugal para 2026/2027: DGES, prazos, estudantes estrangeiros, ação social, Erasmus+ e candidaturas.",
+    "url": "portugal/educacao/bolsas-de-estudo-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Bolsas de estudo Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cursos profissionalizantes em Portugal: tipos, certificados e inscrições",
+    "description": "Conheça os cursos profissionalizantes em Portugal: cursos profissionais, aprendizagem, EFA, CET, formação modular, IEFP e certificações.",
+    "url": "portugal/educacao/cursos-profissionalizantes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Cursos profissionalizantes Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cursos de idiomas em Portugal: português, inglês e formação gratuita",
+    "description": "Saiba onde procurar cursos de português e outros idiomas em Portugal, incluindo Português Língua de Acolhimento (PLA), IEFP e ofertas locais.",
+    "url": "portugal/educacao/cursos-de-idiomas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Cursos de idiomas Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Estudar e trabalhar em Portugal: regras para estudantes estrangeiros",
+    "description": "Entenda quando estudantes estrangeiros podem trabalhar em Portugal, cuidados com autorização de residência, contrato, Segurança Social e opções após concluir estudos.",
+    "url": "portugal/educacao/estudar-e-trabalhar-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Estudar e trabalhar Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Escolas privadas e internacionais em Portugal: como escolher",
+    "description": "Compare escolas privadas, particulares e internacionais em Portugal: currículo, mensalidades, matrículas, equivalências e perguntas essenciais antes de contratar.",
+    "url": "portugal/educacao/escolas-privadas-internacionais-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Escolas privadas internacionais Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Educação de adultos em Portugal: EFA, RVCC e Centros Qualifica",
+    "description": "Saiba como concluir estudos em Portugal depois dos 18 anos: cursos EFA, RVCC, Centros Qualifica, certificação e oportunidades para brasileiros.",
+    "url": "portugal/educacao/educacao-adultos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Educacao adultos Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Mestrado e doutorado em Portugal: como se candidatar",
+    "description": "Guia para brasileiros sobre mestrado e doutorado em Portugal: requisitos, reconhecimento de diplomas, candidaturas, propinas, bolsas e pesquisa.",
+    "url": "portugal/educacao/mestrado-doutorado-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Mestrado doutorado Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Plataformas de estudo online em Portugal: cursos gratuitos e certificados",
+    "description": "Conheça plataformas de estudo online em Portugal, incluindo NAU, Academia Portugal Digital, Universidade Aberta e formação à distância.",
+    "url": "portugal/educacao/plataformas-estudo-online-portugal/index.html",
+    "country": "Portugal",
+    "category": "Educacao",
+    "keywords": [
+      "Plataformas estudo online Portugal",
+      "Portugal",
+      "Educação"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Saúde",
+    "description": "Informações sobre Saúde em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Saúde",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Sistema de saude Portugal SNS",
+    "description": "Informações sobre Sistema de saude Portugal SNS em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/sistema-de-saude-portugal-sns/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Sistema de saude Portugal SNS",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cartao de utente Portugal como obter",
+    "description": "Informações sobre Cartao de utente Portugal como obter em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/cartao-de-utente-portugal-como-obter/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Cartao de utente Portugal como obter",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Hospitais e centros de saude Portugal",
+    "description": "Informações sobre Hospitais e centros de saude Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/hospitais-e-centros-de-saude-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Hospitais e centros de saude Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Consultas e especialidades medicas Portugal",
+    "description": "Informações sobre Consultas e especialidades medicas Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/consultas-e-especialidades-medicas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Consultas e especialidades medicas Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Servicos de emergencia Portugal 112",
+    "description": "Informações sobre Servicos de emergencia Portugal 112 em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/servicos-de-emergencia-portugal-112/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Servicos de emergencia Portugal 112",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Farmacias em Portugal",
+    "description": "Informações sobre Farmacias em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/farmacias-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Farmacias em Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Vacinacao em Portugal",
+    "description": "Informações sobre Vacinacao em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/vacinacao-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Vacinacao em Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Planos de saude privados Portugal",
+    "description": "Informações sobre Planos de saude privados Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/planos-de-saude-privados-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Planos de saude privados Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Parto em Portugal SNS e privado",
+    "description": "Informações sobre Parto em Portugal SNS e privado em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/parto-em-portugal-sns-e-privado/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Parto em Portugal SNS e privado",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Acompanhamento gravidez Portugal",
+    "description": "Informações sobre Acompanhamento gravidez Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/acompanhamento-gravidez-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Acompanhamento gravidez Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Dentista em Portugal cuidados orais",
+    "description": "Informações sobre Dentista em Portugal cuidados orais em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/dentista-em-portugal-cuidados-orais/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Dentista em Portugal cuidados orais",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Saude mental Portugal apoio psicologico",
+    "description": "Informações sobre Saude mental Portugal apoio psicologico em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/saude-mental-portugal-apoio-psicologico/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Saude mental Portugal apoio psicologico",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cuidados com idosos Portugal",
+    "description": "Informações sobre Cuidados com idosos Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/cuidados-com-idosos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Cuidados com idosos Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Apoio pessoas com deficiencia Portugal",
+    "description": "Informações sobre Apoio pessoas com deficiencia Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/apoio-pessoas-com-deficiencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "Apoio pessoas com deficiencia Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "COVID 19 e doencas em Portugal",
+    "description": "Informações sobre COVID 19 e doencas em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/saude/covid-19-e-doencas-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Saude",
+    "keywords": [
+      "COVID 19 e doencas em Portugal",
+      "Portugal",
+      "Saúde"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Mobilidade",
+    "description": "Informações sobre Mobilidade em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Mobilidade",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Transporte publico Portugal como funciona",
+    "description": "Informações sobre Transporte publico Portugal como funciona em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/transporte-publico-portugal-como-funciona/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Transporte publico Portugal como funciona",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Metro e comboios Portugal",
+    "description": "Informações sobre Metro e comboios Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/metro-e-comboios-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Metro e comboios Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Autocarros urbanos intercidades Portugal",
+    "description": "Informações sobre Autocarros urbanos intercidades Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/autocarros-urbanos-intercidades-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Autocarros urbanos intercidades Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Uber Bolt taxis Portugal",
+    "description": "Informações sobre Uber Bolt taxis Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/uber-bolt-taxis-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Uber Bolt taxis Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Carta de conducao Portugal como tirar",
+    "description": "Informações sobre Carta de conducao Portugal como tirar em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/carta-de-conducao-portugal-como-tirar/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Carta de conducao Portugal como tirar",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Regras de transito Portugal",
+    "description": "Informações sobre Regras de transito Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/regras-de-transito-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Regras de transito Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Comprar carro em Portugal",
+    "description": "Informações sobre Comprar carro em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/comprar-carro-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Comprar carro em Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Alugar carro Portugal precos requisitos",
+    "description": "Informações sobre Alugar carro Portugal precos requisitos em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/alugar-carro-portugal-precos-requisitos/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Alugar carro Portugal precos requisitos",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguro automovel Portugal",
+    "description": "Informações sobre Seguro automovel Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/seguro-automovel-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Seguro automovel Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Inspecao periodica veiculos Portugal",
+    "description": "Informações sobre Inspecao periodica veiculos Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/inspecao-periodica-veiculos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Inspecao periodica veiculos Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Documentos veiculo Portugal",
+    "description": "Informações sobre Documentos veiculo Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/documentos-veiculo-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Documentos veiculo Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Portagens via verde Portugal",
+    "description": "Informações sobre Portagens via verde Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/portagens-via-verde-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Portagens via verde Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Estacionamento em Portugal regras",
+    "description": "Informações sobre Estacionamento em Portugal regras em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/estacionamento-em-portugal-regras/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Estacionamento em Portugal regras",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Bicicletas e scooters Portugal",
+    "description": "Informações sobre Bicicletas e scooters Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/mobilidade/bicicletas-e-scooters-portugal/index.html",
+    "country": "Portugal",
+    "category": "Mobilidade",
+    "keywords": [
+      "Bicicletas e scooters Portugal",
+      "Portugal",
+      "Mobilidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Finanças",
+    "description": "Informações sobre Finanças em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Finanças",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Abrir conta bancaria Portugal",
+    "description": "Informações sobre Abrir conta bancaria Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/abrir-conta-bancaria-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Abrir conta bancaria Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Melhores bancos em Portugal",
+    "description": "Informações sobre Melhores bancos em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/melhores-bancos-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Melhores bancos em Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que e IBAN e como funciona",
+    "description": "Informações sobre O que e IBAN e como funciona em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/o-que-e-iban-e-como-funciona/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "O que e IBAN e como funciona",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Apps financeiras e fintechs Portugal",
+    "description": "Informações sobre Apps financeiras e fintechs Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/apps-financeiras-e-fintechs-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Apps financeiras e fintechs Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Enviar dinheiro para Portugal",
+    "description": "Informações sobre Enviar dinheiro para Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/enviar-dinheiro-para-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Enviar dinheiro para Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Transferencias internacionais Portugal",
+    "description": "Informações sobre Transferencias internacionais Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/transferencias-internacionais-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Transferencias internacionais Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cambio e casas de cambio Portugal",
+    "description": "Informações sobre Cambio e casas de cambio Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/cambio-e-casas-de-cambio-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Cambio e casas de cambio Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cartao de credito e debito Portugal",
+    "description": "Informações sobre Cartao de credito e debito Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/cartao-de-credito-e-debito-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Cartao de credito e debito Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Impostos em Portugal como funciona",
+    "description": "Informações sobre Impostos em Portugal como funciona em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/impostos-em-portugal-como-funciona/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Impostos em Portugal como funciona",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Declaracao IRS Portugal como fazer",
+    "description": "Informações sobre Declaracao IRS Portugal como fazer em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/declaracao-irs-portugal-como-fazer/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Declaracao IRS Portugal como fazer",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Contribuicoes seguranca social Portugal",
+    "description": "Informações sobre Contribuicoes seguranca social Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/contribuicoes-seguranca-social-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Contribuicoes seguranca social Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Custo de vida em Portugal atualizado",
+    "description": "Informações sobre Custo de vida em Portugal atualizado em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/custo-de-vida-em-portugal-atualizado/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Custo de vida em Portugal atualizado",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Gestao de salario e financas pessoais",
+    "description": "Informações sobre Gestao de salario e financas pessoais em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/gestao-de-salario-e-financas-pessoais/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Gestao de salario e financas pessoais",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Planejamento financeiro em Portugal",
+    "description": "Informações sobre Planejamento financeiro em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/planejamento-financeiro-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Planejamento financeiro em Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Emprestimos e financiamentos Portugal",
+    "description": "Informações sobre Emprestimos e financiamentos Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/emprestimos-e-financiamentos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Emprestimos e financiamentos Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Investimentos e poupanca Portugal",
+    "description": "Informações sobre Investimentos e poupanca Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/investimentos-e-poupanca-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Investimentos e poupanca Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Seguros financeiros Portugal",
+    "description": "Informações sobre Seguros financeiros Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/financas/seguros-financeiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Financas",
+    "keywords": [
+      "Seguros financeiros Portugal",
+      "Portugal",
+      "Finanças"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Turismo",
+    "description": "Informações sobre Turismo em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Turismo",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em lisboa Portugal",
+    "description": "Informações sobre O que fazer em lisboa Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-lisboa-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em lisboa Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer no porto Portugal",
+    "description": "Informações sobre O que fazer no porto Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-no-porto-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer no porto Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em braga Portugal",
+    "description": "Informações sobre O que fazer em braga Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-braga-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em braga Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em coimbra Portugal",
+    "description": "Informações sobre O que fazer em coimbra Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-coimbra-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em coimbra Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em evora Portugal",
+    "description": "Informações sobre O que fazer em evora Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-evora-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em evora Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em guimaraes Portugal",
+    "description": "Informações sobre O que fazer em guimaraes Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-guimaraes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em guimaraes Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer em sintra Portugal",
+    "description": "Informações sobre O que fazer em sintra Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-em-sintra-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer em sintra Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer na ilha da madeira",
+    "description": "Informações sobre O que fazer na ilha da madeira em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-na-ilha-da-madeira/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer na ilha da madeira",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer no algarve Portugal",
+    "description": "Informações sobre O que fazer no algarve Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-no-algarve-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer no algarve Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "O que fazer nos acores Portugal",
+    "description": "Informações sobre O que fazer nos acores Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/o-que-fazer-nos-acores-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "O que fazer nos acores Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Melhores praias de Portugal",
+    "description": "Informações sobre Melhores praias de Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/melhores-praias-de-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Melhores praias de Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Castelos e monumentos em Portugal",
+    "description": "Informações sobre Castelos e monumentos em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/castelos-e-monumentos-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Castelos e monumentos em Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Museus e centros historicos Portugal",
+    "description": "Informações sobre Museus e centros historicos Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/museus-e-centros-historicos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Museus e centros historicos Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Patrimonios da UNESCO em Portugal",
+    "description": "Informações sobre Patrimonios da UNESCO em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/patrimonios-da-unesco-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Patrimonios da UNESCO em Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Rota do vinho porto e douro",
+    "description": "Informações sobre Rota do vinho porto e douro em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/rota-do-vinho-porto-e-douro/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Rota do vinho porto e douro",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Comida tipica portuguesa",
+    "description": "Informações sobre Comida tipica portuguesa em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/comida-tipica-portuguesa/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Comida tipica portuguesa",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Festas e cultura em Portugal",
+    "description": "Informações sobre Festas e cultura em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/festas-e-cultura-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Festas e cultura em Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Trilhos e natureza em Portugal",
+    "description": "Informações sobre Trilhos e natureza em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/turismo/trilhos-e-natureza-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Turismo",
+    "keywords": [
+      "Trilhos e natureza em Portugal",
+      "Portugal",
+      "Turismo"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Comunidade em Portugal: 20 guias para brasileiros",
+    "description": "Explore 20 guias sobre comunidade em Portugal: apoio a imigrantes, eventos, educação, voluntariado, serviços, restaurantes e vida de brasileiros.",
+    "url": "portugal/comunidade/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Comunidade",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Emergências e contatos úteis em Portugal",
+    "description": "Números de emergência, saúde, proteção civil e apoio a imigrantes em Portugal: saiba quando ligar e onde confirmar contatos.",
+    "url": "portugal/comunidade/emergencias-contatos-uteis-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Emergencias contatos uteis Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Apoio jurídico para imigrantes em Portugal: onde pedir ajuda",
+    "description": "Saiba como pedir proteção jurídica em Portugal, consultar advogado, procurar apoio judiciário e encontrar orientação para imigrantes.",
+    "url": "portugal/comunidade/apoio-juridico-imigrantes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Apoio juridico imigrantes Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Orientação social para imigrantes em Portugal: serviços e direitos",
+    "description": "Guia de orientação social para imigrantes em Portugal: CLAIM, Segurança Social, habitação, saúde, trabalho e acesso a serviços em 2026.",
+    "url": "portugal/comunidade/orientacao-social-imigrantes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Orientacao social imigrantes Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "ONGs e programas de apoio em Portugal: onde procurar ajuda",
+    "description": "Conheça associações, ONGs e programas de apoio a imigrantes em Portugal, incluindo CLAIM, projetos locais e critérios para procurar ajuda em 2026.",
+    "url": "portugal/comunidade/ongs-programas-apoio-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Ongs programas apoio Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Grupos de WhatsApp para brasileiros em Portugal: como encontrar com segurança",
+    "description": "Saiba como encontrar grupos de WhatsApp de brasileiros em Portugal, avaliar comunidades locais, proteger dados e evitar burlas em 2026.",
+    "url": "portugal/comunidade/grupos-whatsapp-brasileiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Grupos WhatsApp brasileiros Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Serviços brasileiros em Portugal: profissionais e empresas com segurança",
+    "description": "Como encontrar serviços de brasileiros em Portugal, verificar empresas, comparar orçamentos, confirmar qualificações e usar o Livro de Reclamações.",
+    "url": "portugal/comunidade/servicos-brasileiros-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Servicos brasileiros em Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Eventos brasileiros em Portugal: cultura, música e comunidade",
+    "description": "Saiba onde encontrar eventos brasileiros em Portugal, como festas culturais, música, gastronomia, feiras e encontros comunitários, com dicas de segurança.",
+    "url": "portugal/comunidade/eventos-brasileiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Eventos brasileiros Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Restaurantes brasileiros em Portugal: onde encontrar e como escolher",
+    "description": "Encontre restaurantes brasileiros em Portugal, pratos típicos, guias gastronômicos de 2026 e dicas para conferir menus, preços e alergênicos.",
+    "url": "portugal/comunidade/restaurantes-brasileiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Restaurantes brasileiros Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Vida de imigrante brasileiro em Portugal: adaptação e comunidade",
+    "description": "Guia para brasileiros em Portugal: adaptação cultural, moradia, trabalho, escola, serviços públicos e redes de apoio com fontes verificáveis.",
+    "url": "portugal/comunidade/vida-de-imigrante-brasileiros-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Vida de imigrante brasileiros Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Atividades para crianças em Portugal: opções gratuitas e em família",
+    "description": "Ideias de atividades infantis em Portugal: bibliotecas, museus, parques, oficinas, desporto, férias escolares e onde consultar agendas oficiais.",
+    "url": "portugal/comunidade/atividades-para-criancas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Atividades para criancas Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Calendário de eventos em Portugal: onde consultar agendas atualizadas",
+    "description": "Saiba onde encontrar eventos em Portugal: agendas municipais, festivais, feiras, eventos culturais, atividades infantis e fontes oficiais.",
+    "url": "portugal/comunidade/calendario-eventos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Calendario eventos Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Igrejas e comunidades religiosas em Portugal: acolhimento e integração",
+    "description": "Como encontrar igrejas e comunidades religiosas em Portugal, conhecer iniciativas de acolhimento, apoio social e diálogo inter-religioso com fontes oficiais.",
+    "url": "portugal/comunidade/igrejas-comunidades-religiosas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Igrejas comunidades religiosas Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Intercâmbio de idiomas em Portugal: conversação e aprendizagem",
+    "description": "Onde praticar idiomas em Portugal: intercâmbio linguístico, bibliotecas, grupos de conversação, cursos PLA, IEFP e cuidados com encontros presenciais.",
+    "url": "portugal/comunidade/intercambio-de-idiomas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Intercambio de idiomas Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Bibliotecas e recursos educacionais em Portugal: guia para estudantes",
+    "description": "Encontre bibliotecas públicas e universitárias, catálogos, recursos educativos digitais, espaços de estudo e serviços gratuitos em Portugal.",
+    "url": "portugal/comunidade/recursos-educacionais-bibliotecas-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Recursos educacionais bibliotecas Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Cuidados com idosos e apoio domiciliário em Portugal",
+    "description": "Entenda como funciona o Serviço de Apoio Domiciliário, centros de dia, lares, custos e procura de respostas sociais para idosos em Portugal.",
+    "url": "portugal/comunidade/cuidados-idosos-apoio-domiciliar-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Cuidados idosos apoio domiciliar Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Coworking e espaços de trabalho em Portugal",
+    "description": "Saiba como escolher coworkings em Portugal: preços, localização, contratos, internet, incubadoras e alternativas para trabalho remoto.",
+    "url": "portugal/comunidade/coworking-espacos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Coworking espacos Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Doações, trocas e marketplaces em Portugal: guia seguro",
+    "description": "Onde doar, trocar ou comprar artigos usados em Portugal e como evitar burlas, avaliar anúncios, combinar entregas e compreender garantias.",
+    "url": "portugal/comunidade/doacoes-trocas-marketplace-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Doacoes trocas marketplace Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Voluntariado em Portugal",
+    "description": "Informações sobre Voluntariado em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/comunidade/voluntariado-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Voluntariado em Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Esportes e lazer em Portugal: atividades para todas as idades",
+    "description": "Descubra opções de esportes e lazer em Portugal: clubes, piscinas municipais, trilhas, atividades gratuitas e cuidados antes de se inscrever.",
+    "url": "portugal/comunidade/esportes-e-lazer-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Esportes e lazer Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Transporte solidário e carpool em Portugal: boleias e segurança",
+    "description": "Saiba como funcionam boleias, transporte solidário e carpool em Portugal, diferenças para TVDE, segurança, partilha de despesas e opções de mobilidade.",
+    "url": "portugal/comunidade/transporte-solidario-carpool-portugal/index.html",
+    "country": "Portugal",
+    "category": "Comunidade",
+    "keywords": [
+      "Transporte solidario carpool Portugal",
+      "Portugal",
+      "Comunidade"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Extras",
+    "description": "Informações sobre Extras em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Extras",
+      "Portugal"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Checklist chegada em Portugal",
+    "description": "Informações sobre Checklist chegada em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/checklist-chegada-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Checklist chegada em Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Passo a passo documentacao Portugal",
+    "description": "Informações sobre Passo a passo documentacao Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/passo-a-passo-documentacao-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Passo a passo documentacao Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "FAQ perguntas frequentes Portugal",
+    "description": "Informações sobre FAQ perguntas frequentes Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/faq-perguntas-frequentes-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "FAQ perguntas frequentes Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Links oficiais Portugal importantes",
+    "description": "Informações sobre Links oficiais Portugal importantes em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/links-oficiais-portugal-importantes/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Links oficiais Portugal importantes",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Modelos de documentos Portugal",
+    "description": "Informações sobre Modelos de documentos Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/modelos-de-documentos-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Modelos de documentos Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Downloads uteis Portugal",
+    "description": "Informações sobre Downloads uteis Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/downloads-uteis-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Downloads uteis Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Aplicativos uteis em Portugal",
+    "description": "Informações sobre Aplicativos uteis em Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/aplicativos-uteis-em-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Aplicativos uteis em Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Agenda calendario util Portugal",
+    "description": "Informações sobre Agenda calendario util Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/agenda-calendario-util-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Agenda calendario util Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Numeros de emergencia Portugal",
+    "description": "Informações sobre Numeros de emergencia Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/numeros-de-emergencia-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Numeros de emergencia Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Checklist viagem Portugal",
+    "description": "Informações sobre Checklist viagem Portugal em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/checklist-viagem-portugal/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Checklist viagem Portugal",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Guias rapidos Portugal PDF",
+    "description": "Informações sobre Guias rapidos Portugal PDF em Portugal: guias e orientações do ImigraEuropa.",
+    "url": "portugal/Extras/guias-rapidos-portugal-pdf/index.html",
+    "country": "Portugal",
+    "category": "Extras",
+    "keywords": [
+      "Guias rapidos Portugal PDF",
+      "Portugal",
+      "Extras"
+    ],
+    "status": "published"
+  }
+]
